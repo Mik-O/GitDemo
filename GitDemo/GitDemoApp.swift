@@ -12,8 +12,6 @@ struct GitDemoApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-            print("Hello World!")
-
         }
     }
 }
